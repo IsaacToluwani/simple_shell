@@ -215,14 +215,10 @@ $
 
 ## AUTHORS
 
-### 🤵🏼 Olaoluwa ISOGUN
-- [GitHub](https://github.com/OlaoluwaISOGUN)
-- [LinkedIn](https://www.linkedin.com/in/olaoluwa-isogun-31b602247)
+### 🙋‍♀️ Gifty Ikechukwu
+- [GitHub](https://github.com/giftyphilips)
+- [LinkedIn](https://www.linkedin.com/in/giftyikechukwu/)
 
-### 🤵🏻‍ Oluwatomisin ISOGUN
-
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
-<a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
-<a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
-<a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
+### 🙋‍♂️ Isaac Toluwani
+- [GitHub](https://github.com/IsaacToluwani)
+- [LinkedIn](https://www.linkedin.com/in/isaac-toluwani/)
